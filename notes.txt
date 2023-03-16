@@ -1,3 +1,14 @@
+universal password: littlelemon@123
+
 Admin login info:
 username: adminLL
 password: littlelemon@123
+
+Managers:
+usernames: lemonmanager1, lemonmanager2, lemonmanager3
+
+Delivery Crew
+usernames: lemonshipper1, lemonshipper2, lemonshipper3
+
+Customer
+usernames: testuser, testuser2
